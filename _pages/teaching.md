@@ -1,12 +1,11 @@
 ---
-title: "Yale College"
-collection: teaching
-type: "Undergraduate course"
-#permalink: /teaching/2014-spring-teaching-1
-#venue: "University 1, Department"
-#date: 2014-01-01
-#location: "City, Country"
+layout: archive
+permalink: /teaching/
+title: "Teaching"
+author_profile: true
 ---
+
+# Yale College
 
 
 Intermediate Macroeconomics
@@ -21,3 +20,10 @@ Macroeconomic Theory
 Spring 2022, to Prof. Giuseppe Moscarini
 
 Spring 2023, to Prof. Zhen Huo
+
+
+
+# Peking University
+Applied Econometrics
+---
+Fall 2017, to Prof. Wanchuan Lin
