@@ -18,7 +18,7 @@ author_profile: true
 
 - Spring 2023, to Prof. Zhen Huo
 
-<br/>
+
 
 ## *Peking University*
 ### Applied Econometrics
