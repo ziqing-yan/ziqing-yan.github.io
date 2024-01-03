@@ -19,9 +19,9 @@ Spring 2022, to Prof. Giuseppe Moscarini
 Spring 2023, to Prof. Zhen Huo
 
 
+<br/>
 
-
-# Peking University
+## Peking University
 ### Applied Econometrics
 
 Fall 2017, to Prof. Wanchuan Lin
