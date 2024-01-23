@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Ziqing Yan. I am a fifth-year PhD Candidate in Economics at Yale University. My research focuses on Labor Economics. 
+Hello! This is Ziqing Yan. I am a PhD Candidate in Economics at Yale University. My research focuses on Labor Economics. The best way to contact me is via email at ziqing.yan@yale.edu
 
-You can find my [CV](http://ziqing-yan.github.io/files/CV_ziqingyan.pdf) here
