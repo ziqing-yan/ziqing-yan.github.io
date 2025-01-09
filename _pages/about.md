@@ -13,4 +13,6 @@ Hello! This is Ziqing Yan. I am a PhD Candidate in Economics at Yale University.
 
 ## Working Papers
 
-[The Effect of Occupational Licensing on The Gender Wage Gap](http://ziqing-yan.github.io/files/ziqingyan_license_gender.pdf)
+<!-- [The Effect of Occupational Licensing on The Gender Wage Gap](http://ziqing-yan.github.io/files/ziqingyan_license_gender.pdf) -->
+
+<a href="http://ziqing-yan.github.io/files/ziqingyan_license_gender.pdf" target="_blank">The Effect of Occupational Licensing on The Gender Wage Gap</a>
