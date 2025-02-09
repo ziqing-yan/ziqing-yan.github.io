@@ -19,7 +19,10 @@ The best way to contact me is via email at ziqing.yan@yale.edu
 ## Working Papers
 
 <!-- [The Effect of Occupational Licensing on The Gender Wage Gap](http://ziqing-yan.github.io/files/ziqingyan_license_gender.pdf) -->
-The Effect of Occupational Licensing on The Gender Wage Gap, *Under Review*, [Paper](http://ziqing-yan.github.io/files/ziqingyan_license_gender.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345).
+The Effect of Occupational Licensing on The Gender Wage Gap, *Under Review*, 
+<a href="http://ziqing-yan.github.io/files/ziqingyan_license_gender.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>.
+
 
 <details>
   <summary style="cursor: pointer;">
