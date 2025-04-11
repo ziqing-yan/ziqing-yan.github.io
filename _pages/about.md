@@ -12,7 +12,7 @@ Welcome! This is Ziqing Yan. I am a PhD Candidate in Economics at Yale Universit
 
 The best way to contact me is via email at ziqing.yan@yale.edu
 
-
+<br><br>
 
 # Research 
 
