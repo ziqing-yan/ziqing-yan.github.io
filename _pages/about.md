@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is Ziqing Yan. I am a PhD Candidate in Economics at Yale University. My research focuses on **Labor Economics**, including: (1) the effect of public policies and regulations on gender inequality, and (2) determinants of worker mobility. 
+Welcome! I am a PhD Candidate in Economics at Yale University. My research focuses on **Labor Economics**, including: (1) the effect of public policies and regulations on gender inequality, and (2) determinants of worker mobility. 
 
-The best way to contact me is via email at ziqing.yan@yale.edu
+Email: ziqing.yan@yale.edu
 
 <br>
 
@@ -32,3 +32,11 @@ The best way to contact me is via email at ziqing.yan@yale.edu
   </li>
 </ol>
 
+
+## Work in Progress
+
+<ol>
+  <li>
+    <strong>Household Colocation Frictions, Worker Mobility, and Gendered Labor Market Outcomes</strong>
+  </li>
+</ol>
