@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD Candidate in Economics at Yale University. My research focuses on **Labor Economics**, including: (1) the effect of public policies and regulations on gender inequality, and (2) determinants of worker mobility. 
+Welcome! I am a PhD Candidate in Economics at Yale University. My research focuses on **Labor Economics** and **Macroeconomics**, including: (1) the effect of public policies and regulations on gender inequality, and (2) determinants of worker mobility. 
 
 Email: ziqing.yan@yale.edu
 

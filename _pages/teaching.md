@@ -12,6 +12,8 @@ author_profile: true
 
 - Fall 2022, to Prof. Michael Peters
 
+- Spring 2025, to Prof. Ilse Lindenlaub
+
 ### Macroeconomic Theory
 
 - Spring 2022, to Prof. Giuseppe Moscarini
