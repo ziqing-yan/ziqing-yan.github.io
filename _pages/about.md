@@ -10,12 +10,12 @@ redirect_from:
 
 Welcome! I am a PhD Candidate in Economics at Yale University. My research lies at the intersection of **Labor Economics** and **Macroeconomics**, with a focus on:
 <ol>
-<li>The effects of public policies and labor market regulations on **gender inequality**, and</li>
-<li>The determinants of **worker mobility** and their implications for labor market outcomes.</li> 
+<li>The effects of public policies and labor market regulations on <strong>gender inequality</strong>, and</li>
+<li>The determinants of <strong>worker mobility</strong> and their implications for labor market outcomes.</li> 
 </ol>
 I am on the 2025-2026 job market.
 
-You can reach me via email at ziqing.yan@yale.edu.
+You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu</a>.
 
 <br>
 
