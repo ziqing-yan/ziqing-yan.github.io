@@ -8,21 +8,21 @@ author_profile: true
 ## *Yale College*
 ### Intermediate Macroeconomics
 
-- Fall 2021, to Prof. Fabrizio Zilibotti
+- Spring 2025, TA to Prof. Ilse Lindenlaub
 
-- Fall 2022, to Prof. Michael Peters
+- Fall 2022, TA to Prof. Michael Peters
 
-- Spring 2025, to Prof. Ilse Lindenlaub
+- Fall 2021, TA to Prof. Fabrizio Zilibotti
 
 ### Macroeconomic Theory
 
-- Spring 2022, to Prof. Giuseppe Moscarini
+- Spring 2023, TA to Prof. Zhen Huo
 
-- Spring 2023, to Prof. Zhen Huo
+- Spring 2022, TA to Prof. Giuseppe Moscarini
 
 
 
 ## *Peking University*
 ### Applied Econometrics
 
-- Fall 2017, to Prof. Wanchuan Lin
+- Fall 2017, TA to Prof. Wanchuan Lin
