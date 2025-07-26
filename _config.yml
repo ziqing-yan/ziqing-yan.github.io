@@ -83,6 +83,7 @@ analytics:
 author:
   name             : "Ziqing Yan"
   avatar           : "2025_profile_pic2.jpeg"
+  avatar_size      : 100px # size of the avatar in pixels
   bio              : "Yale University"
   location         : "New Haven, Connecticut"
   employer         :
