@@ -25,24 +25,24 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
 ## Working Papers
 
 <ol>
-  <li>
+  <li style="margin-bottom: 20px;">
     <strong>Household Colocation Frictions, Worker Mobility, and Gendered Labor Market Outcomes</strong>, <em>Job Market Paper</em>, draft coming soon!
-    <p style="margin-top: 5px; font-style: italic;">
-    Co-location frictions widens the gender gap in employment, wages, and the cost of job loss, and remote work can mitigate these disparities.
+    <p style="margin-top: 5px; margin-bottom: 0; font-style: italic;">
+    Household co-location frictions widen the gender gap, and remote work can mitigate these disparities.
     </p>
-    <details style="margin-top: 5px;">
+    <details style="margin-top: 2px;">
       <summary style="cursor: pointer;">Abstract</summary>
       <p style="margin-top: 5px;">
-        This paper studies how co-location frictions---constraints that arise when accepting a job in another location induces job interruptions for the spouse---shape migration patterns and gender inequality in the labor market. Using data on displaced workers, I show that households are more than twice as likely to relocate after a husband’s job loss than after a wife’s. While displaced movers suffer smaller earnings losses than stayers, the gains accrue disproportionately to men, widening gender gaps. To interpret these patterns, I develop and estimate a two-location household job search model that incorporates gender-specific offer distributions, offer arrival rates, migration costs, and unequal weighting of spousal earnings. The model implies that co-location frictions account for roughly half of the gender employment gap and 8.6 percent of the wage gap. Counterfactual simulations highlight that expanding access to remote work substantially relaxes these frictions, raising women’s employment and narrowing gender disparities in post-displacement outcomes.
+        This paper studies how co-location frictions&mdash;constraints that arise when accepting a job in another location induces job interruptions for the spouse&mdash;shape migration patterns and gender inequality in the labor market. Using data on displaced workers, I show that households are more than twice as likely to relocate after a husband’s job loss than after a wife’s. While displaced movers suffer smaller earnings losses than stayers, the gains accrue disproportionately to men, widening gender gaps. To interpret these patterns, I develop and estimate a two-location household job search model that incorporates gender-specific offer distributions, offer arrival rates, migration costs, and unequal weighting of spousal earnings. The model implies that co-location frictions account for roughly half of the gender employment gap and 8.6 percent of the wage gap. Counterfactual simulations highlight that expanding access to remote work substantially relaxes these frictions, raising women’s employment and narrowing gender disparities in post-displacement outcomes.
       </p>
     </details>
   </li>
 
-  <li>
+  <li style="margin-bottom: 20px;">
     <strong>The Effect of Occupational Licensing on The Gender Wage Gap</strong>, <em>Under Review</em>, 
     <a href="http://ziqing-yan.github.io/files/license_draft_ZiqingYan_0810.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>.
-    <p style="margin-top: 5px; font-style: italic;">
+    <p style="margin-top: 5px; margin-bottom: 0; font-style: italic;">
     Licensing narrows the gender wage gap through a signaling channel, with additional gains from continuing education.
     </p>
     <details style="margin-top: 5px;">
@@ -58,7 +58,7 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
 ## Work in Progress
 
 <ol>
-  <li>
+  <li style="margin-bottom: 20px;">
     <strong>AI and Returns to Experience in Entrepreneurship</strong>, with Irisa Zhou, draft coming soon!
   </li>
 </ol>
