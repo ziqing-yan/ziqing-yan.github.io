@@ -58,11 +58,11 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
       </p>
     </details>
   </li>
-
+</ol>
 
 
 ## Work in Progress
-
+<ol>
   <li style="margin-bottom: 20px;">
     <strong>AI and Returns to Experience in Entrepreneurship</strong> (with Irisa Zhou) 
     <p style="margin-top: 3px; margin-bottom: 0; font-style: italic;">
