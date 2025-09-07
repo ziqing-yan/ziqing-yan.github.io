@@ -111,12 +111,14 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@DorisYan666"
+  twitter          : #"@DorisYan666"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "@yzq233.bsky.social"
+  X (formerly Twitter)   : "@DorisYan666"
 
 
 # Reading Files
