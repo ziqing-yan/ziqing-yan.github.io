@@ -26,8 +26,11 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
 
 <ol>
   <li style="margin-bottom: 20px;">
-    <strong>Household Colocation Frictions, Worker Mobility, and Gendered Labor Market Outcomes</strong>, <em>Job Market Paper</em>, draft coming soon!
-    <p style="margin-top: 5px; margin-bottom: 0; font-style: italic;">
+    <strong>Households in Motion: Co-location Frictions and Gender Inequality</strong> 
+    <p style="margin-top: 3px; margin-bottom: 0; font-style: italic;">
+    Job Market Paper. Draft coming soon!
+    </p>
+    <p style="margin-top: 5px; margin-bottom: 0;">
     Household co-location frictions widen the gender gap, and remote work can mitigate these disparities.
     </p>
     <details style="margin-top: 2px;">
@@ -39,9 +42,12 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
   </li>
 
   <li style="margin-bottom: 20px;">
-    <strong>The Effect of Occupational Licensing on The Gender Wage Gap</strong>, <em>Under Review</em>, 
+    <strong>The Effect of Occupational Licensing on The Gender Wage Gap</strong>
+    <div style="margin-top: 3px;">
+    <em>Under Review</em>, 
     <a href="http://ziqing-yan.github.io/files/license_draft_ZiqingYan_0810.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>.
+  </div>
     <p style="margin-top: 5px; margin-bottom: 0; font-style: italic;">
     Licensing narrows the gender wage gap through a signaling channel, with additional gains from continuing education.
     </p>
@@ -52,13 +58,16 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
       </p>
     </details>
   </li>
-</ol>
+
 
 
 ## Work in Progress
 
-<ol>
   <li style="margin-bottom: 20px;">
-    <strong>AI and Returns to Experience in Entrepreneurship</strong>, with Irisa Zhou, draft coming soon!
+    <strong>AI and Returns to Experience in Entrepreneurship</strong> (with Irisa Zhou) 
+    <p style="margin-top: 3px; margin-bottom: 0; font-style: italic;">
+    Draft coming soon!
+    </p>
   </li>
+
 </ol>
