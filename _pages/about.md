@@ -16,6 +16,8 @@ Welcome! I am a PhD Candidate in Economics at Yale University. My research lies 
 
 **I am on the 2025-2026 job market.**
 
+Pronunciation of my name: Zi-ching
+
 You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu</a>.
 
 <br>
