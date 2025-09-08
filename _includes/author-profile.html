@@ -119,10 +119,25 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.X %}
-        <li><a href="https://x.com/{{ author.X }}"><i class="fa-brands fa-x-twitter fa-fw" aria-hidden="true"></i> X</a></li>
+        <li>
+          <a href="https://x.com/{{ author.X | replace:'@','' }}">
+            {% comment %} Use ONE of these, depending on your FA version {% endcomment %}
+            {%- if site.fontawesome_version == 6 -%}
+              <i class="fa-brands fa-x-twitter fa-fw" aria-hidden="true"></i>
+            {%- else -%}
+              <i class="fab fa-twitter fa-fw" aria-hidden="true"></i>
+            {%- endif -%}
+            X
+          </a>
+        </li>
       {% endif %}
       {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="ai ai-bluesky-square ai-fw" aria-hidden="true"></i> Bluesky</a></li>
+        <li>
+          <a href="https://bsky.app/profile/{{ author.bluesky | replace:'@','' }}">
+            <i class="ai ai-bluesky-square ai-fw" aria-hidden="true"></i>
+            Bluesky
+          </a>
+        </li>
       {% endif %}
     </ul>
   </div>
