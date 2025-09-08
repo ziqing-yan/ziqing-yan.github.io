@@ -30,7 +30,7 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
     <p style="margin-top: 3px; margin-bottom: 0; font-style: italic;">
     Job Market Paper. Draft coming soon!
     </p>
-    <p style="margin-top: 5px; margin-bottom: 0; font-size: 12px; color: #555;">
+    <p style="margin-top: 5px; margin-bottom: 0; font-size: 14px; color: #555;">
     Summary: Household co-location frictions widen the gender gap in wage and employment, and remote work can mitigate these disparities.
     </p>
     <details style="margin-top: 2px;">
@@ -48,7 +48,7 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
     <a href="http://ziqing-yan.github.io/files/license_draft_ZiqingYan_0810.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>.
   </div>
-    <p style="margin-top: 5px; margin-bottom: 0; font-size: 12px; color: #555;">
+    <p style="margin-top: 5px; margin-bottom: 0; font-size: 14px; color: #555;">
     Summary: Licensing narrows the gender wage gap through a signaling channel, with additional gains from continuing education.
     </p>
     <details style="margin-top: 5px;">
