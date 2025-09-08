@@ -31,7 +31,7 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
     Job Market Paper. Draft coming soon!
     </p>
     <p style="margin-top: 5px; margin-bottom: 0; font-size: 16px; color: #555;">
-    Summary: Household co-location frictions widen the gender gap in wage and employment, and remote work can mitigate these disparities.
+    Household co-location frictions widen the gender gap in wage and employment, and remote work can mitigate these disparities.
     </p>
     <details style="margin-top: 2px;">
       <summary style="cursor: pointer;">Abstract</summary>
@@ -49,7 +49,7 @@ You can reach me via email at: <a href="ziqing.yan@yale.edu">ziqing.yan@yale.edu
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>.
   </div>
     <p style="margin-top: 5px; margin-bottom: 0; font-size: 16px; color: #555;">
-    Summary: Licensing narrows the gender wage gap through a signaling channel, with additional gains from continuing education.
+    Licensing narrows the gender wage gap through a signaling channel, with additional gains from continuing education.
     </p>
     <details style="margin-top: 5px;">
       <summary style="cursor: pointer;">Abstract</summary>
