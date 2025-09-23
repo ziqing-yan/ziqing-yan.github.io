@@ -83,8 +83,4 @@ Pronunciation of my name: Zi-ching.
 </ol>
 
 
-## Work in Progress
-<ol>
 
-
-</ol>
