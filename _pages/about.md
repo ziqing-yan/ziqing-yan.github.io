@@ -71,7 +71,7 @@ Pronunciation of my name: Zi-ching.
   <li style="margin-bottom: 20px;">
     <strong>AI and Returns to Experience in Entrepreneurship</strong> (with Irisa Zhou) 
   <div style="margin-top: 3px;">
-    <a href="http://ziqing-yan.github.io/files/AI_Yan_Zhou.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>
+    <a href="http://ziqing-yan.github.io/files/AI_Yan_Zhou_09222025.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>
   </div>  
     <details style="margin-top: 2px;">
       <summary style="cursor: pointer;">Abstract</summary>
