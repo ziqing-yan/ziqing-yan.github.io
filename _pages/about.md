@@ -10,8 +10,8 @@ redirect_from:
 
 Welcome! I am a PhD Candidate in Economics at Yale University. My research lies at the intersection of **Labor Economics** and **Macroeconomics**, with a focus on:
 <ol>
-<li>The effects of public policies and labor market regulations on <strong>gender inequality</strong>, and</li>
-<li>The determinants of <strong>worker mobility</strong> and their implications for labor market outcomes.</li> 
+<li>How spatial, informational, and institutional frictions shape <strong>worker mobility</strong> and <strong>gender inequality</strong></li>
+<li>The effect of <strong>technology</strong> (such as AI) on the labor market</li>
 </ol>
 
 **I am on the 2025-2026 job market.**
@@ -69,7 +69,7 @@ Pronunciation of my name: Zi-ching.
   </li>
 
   <li style="margin-bottom: 20px;">
-    <strong>AI and Returns to Experience in Entrepreneurship</strong> (with Irisa Zhou) 
+    <strong>AI and Returns to Experience in Entrepreneurship</strong> (with <a href="http://www.irisazhou.com" target="_blank" rel="noopener noreferrer">Irisa Zhou</a>) 
   <div style="margin-top: 3px;">
     <a href="http://ziqing-yan.github.io/files/AI_Yan_Zhou_09222025.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>
   </div>  
