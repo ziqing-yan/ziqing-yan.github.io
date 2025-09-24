@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a PhD Candidate in Economics at Yale University. My research lies at the intersection of **Labor Economics** and **Macroeconomics**, with a focus on:
 <ol>
-<li>How spatial, informational, and institutional frictions shape <strong>worker mobility</strong> and <strong>gender inequality</strong></li>
+<li>How spatial, informational, and institutional frictions shape <strong>worker mobility</strong> and <strong>gender inequality</strong>, and their policy implications</li>
 <li>The effect of <strong>technology</strong> (such as AI) on the labor market</li>
 </ol>
 
