@@ -39,9 +39,6 @@ Pronunciation of my name: Zi-ching.
     <p style="margin-top: 3px; margin-bottom: 0; font-style: italic;">
     Job Market Paper. Draft coming soon!
     </p>
-    <p style="margin-top: 5px; margin-bottom: 0; font-size: 16px; color: #555;">
-    Household co-location frictions, together with labor market frictions and gender norm, widen the gender gap in wage and employment. Remote work can mitigate these disparities.
-    </p>
     <details style="margin-top: 2px;">
       <summary style="cursor: pointer;">Abstract</summary>
       <p style="margin-top: 5px;">
@@ -57,9 +54,6 @@ Pronunciation of my name: Zi-ching.
     <a href="http://ziqing-yan.github.io/files/license_draft_ZiqingYan_0810.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>.
   </div>
-    <p style="margin-top: 5px; margin-bottom: 0; font-size: 16px; color: #555;">
-    Licensing narrows the gender wage gap through a signaling channel, with additional gains from continuing education.
-    </p>
     <details style="margin-top: 5px;">
       <summary style="cursor: pointer;">Abstract</summary>
       <p style="margin-top: 5px;">
