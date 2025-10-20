@@ -37,7 +37,7 @@ Pronunciation of my name: Zi-ching.
   <li style="margin-bottom: 20px;">
     <strong>Households in Motion: Co-location Frictions and Gender Inequality</strong> 
     <p style="margin-top: 3px; margin-bottom: 0; font-style: italic;">
-    Job Market Paper. Draft coming soon!
+    Draft coming soon! Job Market Paper 
     </p>
     <details style="margin-top: 2px;">
       <summary style="cursor: pointer;">Abstract</summary>
@@ -50,9 +50,8 @@ Pronunciation of my name: Zi-ching.
   <li style="margin-bottom: 20px;">
     <strong>The Effect of Occupational Licensing on The Gender Wage Gap</strong>
     <div style="margin-top: 3px;">
-    <em>Under Review</em>, 
     <a href="http://ziqing-yan.github.io/files/Yan_Ziqing_license_gender.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>.
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>, <em>Under Review</em>. 
   </div>
     <details style="margin-top: 5px;">
       <summary style="cursor: pointer;">Abstract</summary>
