@@ -51,7 +51,7 @@ Pronunciation of my name: Zi-ching.
     <strong>The Effect of Occupational Licensing on The Gender Wage Gap</strong>
     <div style="margin-top: 3px;">
     <em>Under Review</em>, 
-    <a href="http://ziqing-yan.github.io/files/license_draft_ZiqingYan_0810.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
+    <a href="http://ziqing-yan.github.io/files/Yan_Ziqing_license_gender.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5090345" target="_blank" rel="noopener noreferrer">[SSRN]</a>.
   </div>
     <details style="margin-top: 5px;">
