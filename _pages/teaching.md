@@ -6,7 +6,15 @@ author_profile: true
 ---
 
 ## *Yale College*
-### Intermediate Macroeconomics
+
+My <a href="http://ziqing-yan.github.io/files/Yan_Ziqing_Teaching_Evaluations.pdf" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   style="text-decoration: underline;">
+   Teaching Evaluations
+</a>. 
+
+### Intermediate Macroeconomics 
 
 - Spring 2025, TA to Prof. Ilse Lindenlaub
 
