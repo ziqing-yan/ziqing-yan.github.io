@@ -36,9 +36,10 @@ Pronunciation of my name: Zi-ching.
 <ol>
   <li style="margin-bottom: 20px;">
     <strong>Households in Motion: Co-location Frictions and Gender Inequality</strong> 
-    <p style="margin-top: 3px; margin-bottom: 0; font-style: italic;">
-    Draft coming soon! Job Market Paper 
-    </p>
+<div style="margin-top: 3px;">
+    <a href="http://ziqing-yan.github.io/files/Yan_Ziqing_JMP_HHSearch.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
+    <em>Job Market Paper</em>. 
+</div>
     <details style="margin-top: 2px;">
       <summary style="cursor: pointer;">Abstract</summary>
       <p style="margin-top: 5px;">
