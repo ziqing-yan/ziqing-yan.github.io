@@ -10,8 +10,8 @@ redirect_from:
 
 Welcome! I am a PhD Candidate in Economics at Yale University. My research lies at the intersection of **Labor Economics** and **Macroeconomics**, with a focus on:
 <ol>
-<li>How spatial, informational, and institutional frictions shape <strong>worker mobility</strong> and <strong>gender inequality</strong>, and their policy implications</li>
-<li>The effect of <strong>technology</strong> (such as AI) on the labor market</li>
+<li>How spatial and informational frictions shape <strong>worker mobility</strong> and <strong>gender inequality</strong></li>
+<li>The effect of <strong>technology</strong> (such as AI) on the allocation of talent</li>
 </ol>
 
 **I am on the 2025-2026 job market.**
@@ -38,12 +38,13 @@ Pronunciation of my name: Zi-ching.
     <strong>Households in Motion: Co-location Frictions and Gender Inequality</strong> 
 <div style="margin-top: 3px;">
     <a href="http://ziqing-yan.github.io/files/Yan_Ziqing_JMP_HHSearch.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>, 
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5664530" target="_blank" rel="noopener noreferrer">[SSRN]</a>,
     <em>Job Market Paper</em>. 
 </div>
     <details style="margin-top: 2px;">
       <summary style="cursor: pointer;">Abstract</summary>
       <p style="margin-top: 5px;">
-        This paper studies how co-location frictions&mdash;constraints that arise when accepting a job in another location induces job interruptions for the spouse&mdash;shape migration decisions and contribute to gender inequality in the labor market. Using data on displaced workers, I show that household migration responses are almost three times larger after a husband’s job loss than after a wife’s. Movers experience smaller earnings losses than stayers, but these gains accrue disproportionately to men, widening gender gaps. To quantify the effect of co-location frictions, I develop and estimate a two-location household search model that incorporates spatial search frictions, gender-specific offer distributions and arrival rates, and unequal weighting of spousal earnings. The estimates imply that co-location frictions account for roughly half of the gender employment gap and 8.6 percent of the gender wage gap for dual-earner couples. Counterfactual simulations highlight that expanding access to remote work relaxes these constraints and reduces gender gaps in both employment and wages.
+        This paper studies how co-location frictions&mdash;constraints that arise when accepting a job in another location induces job interruptions for the spouse&mdash;shape migration decisions and contribute to gender inequality in the labor market. Using data on displaced workers, I show that household migration responses are almost three times larger after a husband’s job loss than after a wife’s. Movers experience smaller earnings losses than stayers, but these gains accrue disproportionately to men, widening gender gaps. To quantify the effect of co-location frictions, I develop and estimate a two-location household search model that incorporates spatial search frictions, gender-specific offer distributions and arrival rates, and unequal weighting of spousal earnings in household flow utility. The estimates imply that co-location frictions account for roughly half of the gender employment gap and 8.6 percent of the gender wage gap for dual-earner couples. Counterfactual simulations highlight that expanding access to remote work relaxes these constraints and reduces gender gaps in both employment and wages.
       </p>
     </details>
   </li>
