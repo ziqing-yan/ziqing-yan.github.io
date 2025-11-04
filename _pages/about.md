@@ -81,6 +81,6 @@ Pronunciation of my name: Zi-ching.
 ## Selected Work in Progress
 <ol>
   <li style="margin-bottom: 20px;">
-    <strong>Non-Compete Agreement, Labor Mobility, and Workers' Career Outcomes</strong> (with <a href="https://sites.google.com/yale.edu/zihao-li/home?authuser=0" target="_blank" rel="noopener noreferrer">Zihao Li</a>) 
+    <strong>Non-Compete Agreement, Labor Mobility, and Workers' Career Outcomes</strong> (with Zihao Li) 
   </li>
 </ol>
