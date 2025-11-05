@@ -83,4 +83,7 @@ Pronunciation of my name: Zi-ching.
   <li style="margin-bottom: 20px;">
     <strong>Non-Compete Agreement, Labor Mobility, and Workers' Career Outcomes</strong> (with Zihao Li) 
   </li>
+  <li style="margin-bottom: 20px;">
+    <strong>Women’s Representation in Leadership Positions</strong> (with Barbara Biasi and Heather Sarsons) 
+  </li>  
 </ol>
